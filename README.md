@@ -1,14 +1,14 @@
-#multivac
+# multivac
 
 Turns your command line into a fictional supercomputer
 
-##Installation
+## Installation
 
 ```bash
 make && sudo make install
 ```
 
-##Usage
+## Usage
 
 To pose a question to Multivac:
 
@@ -22,7 +22,7 @@ To simulate the end of the universe:
 sudo can entropy be reversed
 ```
 
-##Explanation
+## Explanation
 
 This is a reference to Multivac as described in Isaac Asimov's The Last Question.
 
